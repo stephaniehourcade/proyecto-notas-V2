@@ -1,0 +1,23 @@
+
+
+#titulotarjeta {
+    font-size: 1.3em;
+    margin-top: 0.5em;
+}
+
+#formanota {
+
+    background-color: #C7EBF3;
+    margin-left: 1em;
+    margin-bottom: 1em;
+    display: flex;
+    height: 15em;
+    border-radius: 10px;
+
+
+
+}
+
+#footer {
+    margin-top: 7em; 
+}
